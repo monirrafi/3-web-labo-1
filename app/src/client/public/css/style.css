@@ -1,0 +1,14 @@
+.bgnavbarperso {
+   background-color: black !important;
+}
+
+.bgnavbarperso li a{
+color: #ffffff !important;
+}
+
+#formAnnee{
+    display: none;
+}
+.bgImage{
+    background-image: "app\\src\\serveur\\donnees\\bgImage.jpg";
+}
