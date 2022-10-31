@@ -81,7 +81,7 @@ let listerParVille = () => {
         }
     });
 }
-listeTriee
+
 let listerPermisFin = () => {
     let anf = document.getElementById('anneeF').value;
     let moisf = document.getElementById('moisF').value;

@@ -9,6 +9,16 @@ color: #ffffff !important;
 #formAnnee{
     display: none;
 }
-.bgImage{
-    background-image: "app\\src\\serveur\\donnees\\bgImage.jpg";
+
+body{
+    background-image: url('../../../serveur/donnees/bg3.jpg') ;
+   background-size:cover ;
+    
+}
+label{
+    font-size:xx-large;
+    color: rgb(0,71,171);
+}
+input{
+    background-color: rgb(0,71,171) !important;
 }

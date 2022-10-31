@@ -3,12 +3,12 @@ const construireEntetesPermis = () => {
         <table class="table table-striped">
             <thead>
                 <tr>
-                <th scope="col">Numero Permis</th>
-                <th scope="col">Date Debut</th>
-                <th scope="col">Date Fin</th>
-                <th scope="col">Ville</th>
-                <th scope="col">Type Animal</th>
-                <th scope="col">Nom Animal</th>
+                <th class="table-info" scope="col">Numero Permis</th>
+                <th  class="table-info" scope="col">Date Debut</th>
+                <th  class="table-info" scope="col">Date Fin</th>
+                <th  class="table-info" scope="col">Ville</th>
+                <th  class="table-info" scope="col">Type Animal</th>
+                <th  class="table-info" scope="col">Nom Animal</th>
                 </tr>
             </thead>
             <tbody>
