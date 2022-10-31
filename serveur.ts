@@ -12,7 +12,7 @@ import { listePermisDeType, listePermisDeVille, listerPermisFini,listeTriee } fr
 
 const exp = express();
 const serveur = http.createServer(exp);
-const porte = 8181;
+const porte = 8282;
 serveur.listen(porte); // Famille des 8080-8888
 console.log(`\nServeur démarré sur le port ${porte}`);
 
