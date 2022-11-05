@@ -3,7 +3,9 @@
 }
 
 .bgnavbarperso li a{
-color: #ffffff !important;
+/*color: #ffffff !important;*/
+color: yellow !important;
+padding-right: 100px !important;
 }
 
 #formAnnee{

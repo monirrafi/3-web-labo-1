@@ -31,7 +31,7 @@ const construirePermis = (unAnimal) =>{
 const lister = (listePermis) => {
     
     if(listePermis.length == 0 ){
-        document.getElementsByClassName('container')[0].innerHTML = `<h3> Element cherché est introuvable </h3>`;
+        document.getElementsByClassName('container')[0].innerHTML = `<h3> Le choix est invalide! </h3>`;
     }else{
         let resultat = construireEntetesPermis();
         for(let unAnimal of listePermis){
